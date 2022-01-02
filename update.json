@@ -1,8 +1,10 @@
 {
-  "View": "yes",
+  "Visibility": "view",
   "Title": "Test",
   "Description": "Test Message",
+  "MainTextButton": "Update",
   "Cancelable": "true",
+  "CancelButtonText": "Cancel",
   "Link": "https://www.google.com",
   "Version": "1.1"
 }
