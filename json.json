@@ -1,7 +1,6 @@
 [
   {
     "num": "1",
-    "user": "admin",
     "name": "وصل کردن css به html",
     "code1": "\u003clink rel\u003d\"stylesheet\" href\u003d\"فایل\" type\u003d\"text/css\" media\u003d\"all\" /\u003e",
     "code2": "",
@@ -16,7 +15,6 @@
   },
   {
     "num": "2",
-    "user": "",
     "name": "آدرس دهی در html",
     "code1": "href:\"C/screenshot/8475326.png\"",
     "code2": "href\u003d\"img/../img/..\"",
@@ -31,7 +29,6 @@
   },
   {
     "num": "1",
-    "user": "",
     "name": "پاراگراف",
     "code1": "\u003cp\u003eHello world! \u003c/p\u003e",
     "code2": "",
@@ -46,7 +43,6 @@
   },
   {
     "num": "1",
-    "user": "",
     "name": "تگ h",
     "code1": "\u003ch1\u003eh1\u003c/h1\u003e\n\u003ch2\u003eh2\u003c/h2\u003e\n\u003ch3\u003eh3\u003c/h3\u003e\n\u003ch4\u003eh4\u003c/h4\u003e\n\u003ch5\u003eh5\u003c/h5\u003e\n\u003ch6\u003eh6\u003c/h6\u003e",
     "code2": "",
@@ -61,7 +57,6 @@
   },
   {
     "num": "1",
-    "user": "",
     "name": "ساختار کد ها",
     "code1": "\u003c!DOCTYPE html\u003e\n\u003chtml\u003e\n\u003chead\u003e\n\n\u003c/head\u003e\n\u003cbody\u003e\n\n\u003c/body\u003e\n\u003cfooter\u003e\n\n\u003c/footer\u003e\n\u003c/html\u003e",
     "code2": "",
@@ -76,7 +71,6 @@
   },
   {
     "num": "1",
-    "user": "",
     "name": "ایمیل",
     "code1": "\n\u003ca href\u003d\"mailto:ایمیل?subject\u003dfeedback\"\u003eemail me\u003c/a\u003e",
     "code2": "",
